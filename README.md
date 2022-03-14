@@ -1,6 +1,21 @@
 # Exploring Memorization in Adversarial Training
 
-This repository contains the code for "*Exploring Memorization in Adversarial Training*", submitted to ICLR 2022.
+This repository contains the code for the following paper
+
+[Exploring Memorization in Adversarial Training](https://openreview.net/forum?id=7gE9V9GBZaI) (ICLR 2022)
+
+[Yinpeng Dong](http://ml.cs.tsinghua.edu.cn/~yinpeng), Ke Xu, [Xiao Yang](http://ml.cs.tsinghua.edu.cn/~xiaoyang), [Tianyu Pang](http://ml.cs.tsinghua.edu.cn/~tianyu), [Zhijie Deng](http://ml.cs.tsinghua.edu.cn/~zhijie),  [Hang Su](http://www.suhangss.me), and [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
+
+### Citation
+If you find our methods useful, please consider citing:
+
+	@inproceedings{
+    dong2022exploring,
+    title={Exploring Memorization in Adversarial Training},
+    author={Yinpeng Dong and Ke Xu and Xiao Yang and Tianyu Pang and Zhijie Deng and Hang Su and Jun Zhu},
+    booktitle={International Conference on Learning Representations},
+    year={2022}
+  }
 
 ## Prerequisites
 * Python (3.6.8)
