@@ -9,13 +9,12 @@ This repository contains the code for the following paper
 ### Citation
 If you find our methods useful, please consider citing:
 
-	@inproceedings{
-          dong2022exploring,
-          title={Exploring Memorization in Adversarial Training},
-          author={Yinpeng Dong and Ke Xu and Xiao Yang and Tianyu Pang and Zhijie Deng and Hang Su and Jun Zhu},
-          booktitle={International Conference on Learning Representations},
-          year={2022}
-        }
+    @inproceedings{dong2022exploring,
+      title={Exploring Memorization in Adversarial Training},
+      author={Yinpeng Dong and Ke Xu and Xiao Yang and Tianyu Pang and Zhijie Deng and Hang Su and Jun Zhu},
+      booktitle={International Conference on Learning Representations},
+      year={2022}
+    }
 
 ## Prerequisites
 * Python (3.6.8)
