@@ -55,5 +55,3 @@ For TRADES + TE
 python train_te.py --loss-type trades
 ```
 
-## Pre-trained Models
-We will release the pretrained models after the review process.
